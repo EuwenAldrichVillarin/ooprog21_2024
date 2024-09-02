@@ -21,9 +21,9 @@ public class CarlysEventPrice{
    }
    public static void jobClass(int guests){
       if (guests >= 50){
-      System.out.println("Large event=True");
+      System.out.println("Large event: True");
       }
       else 
-      System.out.println("Large event=False");
+      System.out.println("Large event: False");
    }
 }
